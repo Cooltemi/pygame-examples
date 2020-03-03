@@ -11,3 +11,4 @@ Right now there's:
  - `lunarlander.py`: a slightly-more-complicated Lunar Lander game.
 
 Happy coding!
+[![Run on Repl.it](https://repl.it/badge/github/ternus/pygame-examples)](https://repl.it/github/ternus/pygame-examples)
